@@ -1,5 +1,5 @@
-# 21-dias-de-codigo-Rocketseat
+# 21_dias_de_codigo_Rocketseat
 <b> Repositório criado para o desafio 21 dias de código </b>
 
 
-Desafio 1 - Criar este repositório para listar os projetos que serão desenvolvidos ✓
+<b>Desafio 1</b> - Criar este repositório para listar os projetos que serão desenvolvidos ✓
