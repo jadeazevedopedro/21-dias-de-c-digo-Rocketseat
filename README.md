@@ -3,3 +3,4 @@
 
 
 <b>Desafio 1</b> - Criar este repositório para listar os projetos que serão desenvolvidos ✓
+<b>Desafio 2</b> - Criar um Hello World customizado, com fontes, cores e imagem ✓
